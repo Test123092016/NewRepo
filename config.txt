@@ -1,7 +1,3 @@
-name = Ivan
-size = 200
-email = ivan@dir.bg
-
-name = Ivan1
+name = Ivan2
 size = 2001
-email = ivan1@dir.bg
+email = ivan3@dir.bg
